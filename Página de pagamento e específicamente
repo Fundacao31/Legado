@@ -1,0 +1,150 @@
+ <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Fundação Legado 31 - Regeneração Ativa</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fdfcfb;
+      color: #333;
+    }
+    header {
+      background: linear-gradient(to right, #3d2c6d, #7b4397);
+      color: white;
+      text-align: center;
+      padding: 80px 20px;
+    }
+    header h1 {
+      font-size: 3rem;
+      margin-bottom: 10px;
+      color: gold;
+    }
+    header p {
+      font-size: 1.2rem;
+      max-width: 700px;
+      margin: auto;
+    }
+    section {
+      max-width: 1200px;
+      margin: auto;
+      padding: 60px 20px;
+    }
+    .product {
+      margin-bottom: 60px;
+      text-align: center;
+    }
+    .product img {
+      max-width: 100%;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    .product h2 {
+      color: #3d2c6d;
+      margin-top: 20px;
+    }
+    .cta {
+      text-align: center;
+      background-color: #3d2c6d;
+      color: white;
+      padding: 40px 20px;
+      border-radius: 12px;
+      margin-top: 40px;
+    }
+    .cta a {
+      display: inline-block;
+      padding: 12px 24px;
+      background: gold;
+      color: #000;
+      text-decoration: none;
+      border-radius: 6px;
+      margin-top: 20px;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      color: #999;
+      padding: 20px;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Fundação Legado 31</h1>
+  <p>Transformação, regeneração e expansão da consciência através de nutrição inteligente e ativa.</p>
+</header>
+
+<section>
+  <div class="product">
+    <img src="imagem1.png" alt="Fórmula 31 em pó e cápsulas">
+    <h2>Fórmula 31 – Clareza Mental</h2>
+    <p>Descalcificação da pineal, detox celular, sono restaurador e foco mental. Disponível em pó e cápsulas.</p>
+  </div>
+
+  <div class="product">
+    <img src="imagem2.png" alt="Fórmula 31 benefícios">
+    <h2>Benefícios da Fórmula 31</h2>
+    <p>Clareza mental, foco, energia, detox celular e qualidade do sono.</p>
+  </div>
+
+  <div class="product">
+    <img src="imagem3.png" alt="A Cura - Nutrição Essencial">
+    <h2>A Cura – Nutrição Essencial</h2>
+    <p>Multivitamínico completo com vitaminas, minerais, ômega 3, fitonutrientes e probióticos. Suporte para o despertar integral.</p>
+  </div>
+
+  <div class="product">
+    <img src="imagem4.jpg" alt="Ossus 31 Regeneração">
+    <h2>Ossus 31 – Regeneração Ativa</h2>
+    <p>Suporte nutricional para regeneração óssea e articulações. Além da cura, somos a prevenção.</p>
+  </div>
+
+  <div class="product">
+    <img src="imagem5.jpg" alt="Ossus 1 Cápsulas">
+    <h2>Ossus 1 – Regeneração Ativa</h2>
+    <p>Regeneração avançada, com foco em prevenção, recuperação e vitalidade óssea.</p>
+  </div>
+
+  <div class="product">
+    <img src="imagem6.jpg" alt="Ossus 1 Versão 2">
+    <h2>Ossus 1 – Linha Especial</h2>
+    <p>A combinação de minerais, vitaminas e ativos regeneradores.</p>
+  </div>
+
+  <div class="product">
+    <img src="imagem7.jpg" alt="Ossus 31 embalagem pouch">
+    <h2>Ossus 31 – Embalagem Flexível</h2>
+    <p>Versão prática e portátil, com os mesmos benefícios para regeneração ativa.</p>
+  </div>
+
+  <div class="product">
+    <img src="imagem8.jpg" alt="Ossus 31 versão pouch 2">
+    <h2>Ossus 31 – Fórmula em Pouch</h2>
+    <p>Fácil de carregar, fácil de consumir. Regeneração onde você estiver.</p>
+  </div>
+
+  <div class="product">
+    <img src="imagem9.jpg" alt="Ossus 31 embalagem caixa">
+    <h2>Ossus 31 – Embalagem em Caixa</h2>
+    <p>Para quem busca organização e praticidade no dia a dia da suplementação.</p>
+  </div>
+
+  <div class="cta">
+    <h2>🌱 Invista em você e na missão da Fundação Legado 31</h2>
+    <p>Adquira nossos produtos e contribua com a expansão da consciência e da saúde integral.</p>
+    <a href="https://api.whatsapp.com/send?phone=5511917248735">Fale com a Fundação</a>
+    <br><br>
+    <a href="https://pagamento.exemplo.com/fundacao-legado-31">Clique aqui para efetuar o pagamento</a>
+  </div>
+</section>
+
+<footer>
+  <p>&copy; 2025 Fundação Legado 31. Todos os direitos reservados.</p>
+</footer>
+
+</body>
+</html>
